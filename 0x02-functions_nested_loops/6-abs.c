@@ -12,7 +12,7 @@ if (i >= 0)
 {
 return (i);
 }
-else 
+else
 {
 return (i * -1);
 }
