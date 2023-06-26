@@ -20,5 +20,5 @@ if (t != (n - 1))
 printf(", ");
 }
 }
-printdf('\n');
+printf('\n');
 }
