@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strstr - a function that locates a substring.
+ * _strstr - a function that locates a substring
  * @haystack: input
  * @needle: input
  * Return: 0 (Success)
@@ -11,7 +11,7 @@ for (; *haystack != '\0'; haystack++)
 {
 char *h = haystack;
 char *p = needle;
-while (*h == *P && *p != '\0')
+while (*h == *p && *p != '\0')
 {
 h++;
 p++;
